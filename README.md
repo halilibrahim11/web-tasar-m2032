@@ -1,2 +1,2 @@
-# web-tasar-m2032
+#webtasarim2023
 2023 bahar dönemi 2
